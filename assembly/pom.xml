@@ -36,7 +36,6 @@
                             <goal>single</goal>
                         </goals>
                         <configuration>
-                            <!--生成的名称自带项目版本号-->
                             <finalName>javaFxMavenMulti</finalName>
                             <descriptors>
                                 <descriptor>src/main/resources/assemble/assemble.xml</descriptor>
